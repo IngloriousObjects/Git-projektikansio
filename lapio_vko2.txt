@@ -1,2 +1,2 @@
-tämä on lapion toinen...jota on nyt muutetettu stashin testaamista varten...
+tämä on lapion toinen...jota on nyt muutetettu stashin testaamista varten...MERGE CONFLICT LOCAL
 tämä on gitin repossa lisätty teksti
