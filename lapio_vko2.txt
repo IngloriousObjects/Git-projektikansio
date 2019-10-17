@@ -1,2 +1,2 @@
-tämä on lapion toinen osa
+tämä on lapion toinen...jota on nyt muutetettu stashin testaamista varten...
 tämä on gitin repossa lisätty teksti
